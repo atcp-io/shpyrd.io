@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}" class="light">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/stylesheets/application.css" | relative_url }}">
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    </script>
+    <script src="//unpkg.com/alpinejs" defer></script>
+  </head>
+  <body class="bg-white">
+    <div class="p-10">
+        <article class="antialiased prose max-w-[80ch] ml-auto mr-auto px-10 mb-10 dark:prose-invert prose-headings:font-light prose-code:text-gray-500 prose-pre:bg-gray-50">
+            {{ content }}
+        </article>
+    </div>
+  </body>
+</html>

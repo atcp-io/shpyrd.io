@@ -1,3 +1,8 @@
+---
+layout: default
+title: shpyrd.io
+permalink: /
+---
 # shpyrd
 
 ### Enterprise kubernetes management
@@ -20,7 +25,7 @@
     - Disaster recovery (Cluster recreation)
     - Zero config for apps
 
-![Spec](./imgs/spec.jpg )
+![Spec](/assets/images/spec.jpg )
 
 #### Prototype
 
@@ -32,6 +37,6 @@
 
 #### Logo ideas
 
-![L0](./imgs/logo-idea-1.jpg )
-![L1](./imgs/logo-idea-2.jpg )
-![L2](./imgs/logo-idea-3.jpg )
+![L0](/assets/images/logo-idea-1.jpg )
+![L1](/assets/images/logo-idea-2.jpg )
+![L2](/assets/images/logo-idea-3.jpg )
