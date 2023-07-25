@@ -5,6 +5,8 @@ permalink: /
 ---
 # shpyrd
 
+![L0](/assets/images/shpyrd.png )
+
 ### Enterprise kubernetes management
 
 #### Goals:
@@ -34,9 +36,3 @@ permalink: /
 #### Community
 
 [Discord](https://discord.gg/AxWMXXW7)
-
-#### Logo ideas
-
-![L0](/assets/images/logo-idea-1.jpg )
-![L1](/assets/images/logo-idea-2.jpg )
-![L2](/assets/images/logo-idea-3.jpg )
